@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "java-interview-prep/src/main/java/com/github/ravikanth720/algorithm",
+        "java-interview-prep/src/main/java/com/github/ravikanth720/datastructures"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
